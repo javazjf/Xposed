@@ -1,6 +1,6 @@
 /*
  * Main entry of app process.
- *
+ * test
  * Starts the interpreted runtime, then starts up the application.
  *
  */
